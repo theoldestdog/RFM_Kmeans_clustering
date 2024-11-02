@@ -10,3 +10,5 @@ The kmeans_agg_data notebook is an exercise in running the main preprocessing sc
 outlier and non-outlier dataframes.
 The scaling methods weren't effective but performing a log transformation on the three feature columns seemed to work just fine. Those violin plots
 looked similar to the isolated violin plots in the original tutorial.
+
+The data set used here is not posted up to save space
